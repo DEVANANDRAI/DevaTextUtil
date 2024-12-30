@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/DevaTextUtil/static/css/main.31d6cfe0.css",
+    "main.js": "/DevaTextUtil/static/js/main.47d7f2fd.js",
+    "index.html": "/DevaTextUtil/index.html",
+    "main.47d7f2fd.js.map": "/DevaTextUtil/static/js/main.47d7f2fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.47d7f2fd.js"
+  ]
+}
